@@ -1,0 +1,16 @@
+html, body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: red;
+}
+h2 {
+    color: blue;
+    border: 2px solid yellow;
+}
+
+img {
+    width: 100px;
+    margin: 10px;
+}
